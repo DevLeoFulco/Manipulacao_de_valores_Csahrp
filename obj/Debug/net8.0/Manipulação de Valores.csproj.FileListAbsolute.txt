@@ -1,0 +1,14 @@
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\bin\Debug\net8.0\Manipulação de Valores.exe
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\bin\Debug\net8.0\Manipulação de Valores.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\bin\Debug\net8.0\Manipulação de Valores.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\bin\Debug\net8.0\Manipulação de Valores.dll
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\bin\Debug\net8.0\Manipulação de Valores.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\obj\Debug\net8.0\Manipulação de Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\obj\Debug\net8.0\Manipulação de Valores.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\obj\Debug\net8.0\Manipulação de Valores.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\obj\Debug\net8.0\Manipulação de Valores.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\obj\Debug\net8.0\Manipulação de Valores.dll
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\obj\Debug\net8.0\refint\Manipulação de Valores.dll
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\obj\Debug\net8.0\Manipulação de Valores.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\obj\Debug\net8.0\Manipulação de Valores.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Manipulação de Valores\obj\Debug\net8.0\ref\Manipulação de Valores.dll
